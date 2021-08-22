@@ -24,4 +24,4 @@ Follow standard modding procedure to produce a pak file and remember to delete a
 
 The mod should work perfectly now!(remember to add _P at the end of the pak file)
 
-*please don't look at the original parent material it's fucking mess*
+*please don't look at the original parent material it's a fucking mess*
