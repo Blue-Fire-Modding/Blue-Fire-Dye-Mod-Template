@@ -15,7 +15,7 @@ File>Package Project>Windows(64-bit)
 
 Select the folder you want to package to 
 
-Wait...
+Wait for it to package...
 
 
 
