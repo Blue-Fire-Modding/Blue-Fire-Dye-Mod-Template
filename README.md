@@ -3,7 +3,7 @@ Template for changing the colour of Umbra's base tunic
 
 How to use this Template:
 
-Download the zip file and open the unreal engine project in Unreal Engine 4.25.4
+Download the zip file and open the unreal engine project in Unreal Engine 4.25.4(Obviously extract the zip first)
 
 Edit the colour values in the parameters of Player_Clothes_Basic to change the colours of the tunic
 
