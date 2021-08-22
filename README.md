@@ -7,7 +7,7 @@ Download the zip file and open the unreal engine project in Unreal Engine 4.25.4
 
 Edit the colour values in the parameters of Player_Clothes_Basic to change the colours of the tunic
 
-Remember to disable use pak file in project settings!
+Use Pak file should be already diabled
 
 File>Save All
 
