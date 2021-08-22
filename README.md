@@ -20,6 +20,8 @@ Wait...
 
 
 
-Follow standard modding procedure to produce a pak file and the mod should work perfectly and remember to delete all uassets and uexps except the Player_Clothes_Basic uasset and uexp before packaging
+Follow standard modding procedure to produce a pak file and remember to delete all uassets and uexps except the Player_Clothes_Basic uasset and uexp before packaging
+
+The mod should work perfectly now!(remember to add _P at the end of the pak file)
 
 *please don't look at the original parent material it's fucking mess*
