@@ -1,6 +1,10 @@
 # Blue-Fire-Dye-Mod-Template
 Template for changing the colour of Umbra's base tunic
 
+Edit the uassets using a uasset editor like [UassetGUI](https://github.com/atenfyr/UAssetGUI) or [SoD asset editor](https://github.com/kaiheilos/Utilities)
+
+
+
 How to use this Template:
 
 Download the zip file and open the unreal engine project in Unreal Engine 4.25.4(Obviously extract the zip first)
