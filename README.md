@@ -2,6 +2,7 @@
 Template for changing the colour of Umbra's base tunic
 
 Edit the uassets using a uasset editor like [UassetGUI](https://github.com/atenfyr/UAssetGUI) or [SoD asset editor](https://github.com/kaiheilos/Utilities)
+
 For detail, [check out this guide](https://github.com/bananaturtlesandwich/Blue-Fire-Modding-Guide)
 
 
